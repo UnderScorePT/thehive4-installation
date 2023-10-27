@@ -1,5 +1,5 @@
 # thehive4-installation
-Installation step-by-step for TheHive4
+Installation step-by-step for TheHive4:
 
 STEP1 - sudo apt update -y && sudo apt upgrade -y
 
